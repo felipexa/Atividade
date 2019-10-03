@@ -1,0 +1,7 @@
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Programação de Computadores\Sistema_Cadastro\Sistema_Cadastro\bin\Debug\Sistema_Cadastro.exe.config
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Programação de Computadores\Sistema_Cadastro\Sistema_Cadastro\bin\Debug\Sistema_Cadastro.exe
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Programação de Computadores\Sistema_Cadastro\Sistema_Cadastro\bin\Debug\Sistema_Cadastro.pdb
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Programação de Computadores\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\Sistema_Cadastro.csprojAssemblyReference.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Programação de Computadores\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\Sistema_Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Programação de Computadores\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\Sistema_Cadastro.exe
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2º SEMESTRE\Programação de Computadores\Sistema_Cadastro\Sistema_Cadastro\obj\Debug\Sistema_Cadastro.pdb
